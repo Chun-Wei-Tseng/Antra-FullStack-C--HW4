@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/04Generics/04Generics/bin/Debug/net8.0/04Generics
+/Users/waynetseng/RiderProjects/04Generics/04Generics/bin/Debug/net8.0/04Generics.deps.json
+/Users/waynetseng/RiderProjects/04Generics/04Generics/bin/Debug/net8.0/04Generics.runtimeconfig.json
+/Users/waynetseng/RiderProjects/04Generics/04Generics/bin/Debug/net8.0/04Generics.dll
+/Users/waynetseng/RiderProjects/04Generics/04Generics/bin/Debug/net8.0/04Generics.pdb
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.sourcelink.json
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.dll
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/refint/04Generics.dll
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.pdb
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/04Generics.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/04Generics/04Generics/obj/Debug/net8.0/ref/04Generics.dll
